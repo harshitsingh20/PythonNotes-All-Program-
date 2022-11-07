@@ -7,3 +7,4 @@ Harshit = Student()
 Harshit.name="Harshit"
 Harshit.no_of_leaves=50
 print(Harshit.no_of_leaves)
+print(Student.no_of_leaves)

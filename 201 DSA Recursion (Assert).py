@@ -6,7 +6,7 @@ def factorial(n):
         return n * factorial(n-1)
 print(factorial(5))
 
-
+# The time complexity of recursive factorial is O(n).
 
 # def fact(n):
 #   assert n>=0 and int(n)==n,''

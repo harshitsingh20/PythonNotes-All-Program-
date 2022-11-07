@@ -8,6 +8,4 @@ try:
 except Exception as e:
     print(e)
 
-
-
 print("This line is very important")

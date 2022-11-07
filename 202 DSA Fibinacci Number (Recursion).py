@@ -8,6 +8,7 @@ def fibonacci(n):
 number=int(input("Enter the Number : "))
 print(fibonacci(number))
 
+# complexity of O(2 ^ N) and space complexity of O(N)
 
 # Iterative method
 
